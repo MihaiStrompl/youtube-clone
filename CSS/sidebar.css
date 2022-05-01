@@ -1,5 +1,5 @@
 
-@media (max-width: 1200px){
+@media (max-width: 1300px){
 .sidebar{
     position: fixed;
     left: 0;
@@ -35,7 +35,7 @@
 
 }
 
-@media (min-width: 1201px){
+@media (min-width: 1301px){
     .sidebar{
         position: fixed;
         left: 0;

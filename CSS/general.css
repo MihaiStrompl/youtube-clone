@@ -18,7 +18,7 @@ a{
     text-decoration: none;
 }
 
-@media (min-width: 1201px) {
+@media (min-width: 1301px) {
     body {
       margin-left: 168px;
     }
